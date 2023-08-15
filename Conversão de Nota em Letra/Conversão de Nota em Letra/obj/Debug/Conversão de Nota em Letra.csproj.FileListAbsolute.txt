@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\bin\Debug\Conversão de Nota em Letra.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\bin\Debug\Conversão de Nota em Letra.exe
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\bin\Debug\Conversão de Nota em Letra.pdb
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\obj\Debug\Conversão de Nota em Letra.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\obj\Debug\Conversão de Nota em Letra.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\obj\Debug\Conversão de Nota em Letra.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\obj\Debug\Conversão de Nota em Letra.exe
+C:\Users\pedro.hgaspar2\source\repos\Conversao_de_Nota_em_Letra\Conversão de Nota em Letra\Conversão de Nota em Letra\obj\Debug\Conversão de Nota em Letra.pdb
